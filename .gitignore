@@ -43,3 +43,7 @@ lt~obsolete.m4
 missing
 mkinstalldirs
 .*.swp
+
+# for Clion Project by onephone@201706021
+.idea/
+cmake-build-debug/
